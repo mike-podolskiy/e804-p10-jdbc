@@ -1,5 +1,5 @@
 //CHECKSTYLE:OFF
-package kz.mix.e804.jdbc.main.statement;
+package kz.mix.e804.jdbc.main.statement.selecting;
 
 import kz.mix.e804.jdbc.main.connection.DbConnector;
 
