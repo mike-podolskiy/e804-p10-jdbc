@@ -8,9 +8,6 @@ import java.sql.*;
 public class DbQuery5 {
 
     public static void main(String[] args) {
-        String str = "A.B.C!";
-        System.out.println(str.replaceAll(".", ",").replace("!", "?"));
-
         String url = "jdbc:mysql://localhost:3306/addressBook";
         String userName = "root";
         String password = "welcome";
